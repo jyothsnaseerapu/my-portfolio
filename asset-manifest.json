@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d927a98b.css",
+    "main.js": "/my-portfolio/static/js/main.d7adde59.js",
+    "static/media/covid19.jpg": "/my-portfolio/static/media/covid19.1caaa3a41d617d01c348.jpg",
+    "static/media/img5.jpg": "/my-portfolio/static/media/img5.18a6459c0718464870dc.jpg",
+    "static/media/chat-app.jpg": "/my-portfolio/static/media/chat-app.3a4a29fa4797623e0871.jpg",
+    "static/media/linkedin.jpg": "/my-portfolio/static/media/linkedin.454114bc844beaf2707a.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.d927a98b.css.map": "/my-portfolio/static/css/main.d927a98b.css.map",
+    "main.d7adde59.js.map": "/my-portfolio/static/js/main.d7adde59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d927a98b.css",
+    "static/js/main.d7adde59.js"
+  ]
+}
